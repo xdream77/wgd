@@ -1,17 +1,15 @@
 {
-  "name": "wgd",
+  "name": "wgd-helper",
   "version": "0.0.1",
   "description": "Easily extendable helper for projects.",
-
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/xdream77/wgd.git"
-
+    "type": "git",
+    "url": "git+https://github.com/xdream77/wgd.git"
   },
   "author": "Andre Kotthaus",
   "license": "MIT"
