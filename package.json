@@ -1,0 +1,12 @@
+{
+  "name": "wgd",
+  "version": "1.0.0",
+  "description": "Adds wgd Object to GlobalThis",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
