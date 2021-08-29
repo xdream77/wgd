@@ -1,12 +1,13 @@
 {
   "name": "wgd",
-  "version": "1.0.0",
-  "description": "Adds wgd Object to GlobalThis",
+  "version": "0.0.1",
+  "description": "Easily extendable helper for projects.",
+
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Andre Kotthaus",
+  "license": "MIT"
 }
