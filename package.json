@@ -2,8 +2,7 @@
   "name": "wgd-helper",
   "version": "0.0.1",
   "description": "Easily extendable helper for projects.",
-  "main": "index.js",
-  "type": "module",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
